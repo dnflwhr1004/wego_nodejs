@@ -11,6 +11,38 @@
       "port": 9219,
       "webRoot": "${workspaceFolder}",
       "url": "http://127.0.0.1:52599/p/wego/index.html?_cmAuth\u003dqhvkmfgked"
+    },
+    {
+      "name": "Launch Chrome 127.0.0.1 (1)",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9222,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://127.0.0.1:52599/p/wego/counter.html?_cmAuth\u003dqhvkmfgked"
+    },
+    {
+      "name": "Launch Chrome 127.0.0.1 (2)",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9287,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://127.0.0.1:52599/p/wego/onchange.html?_cmAuth\u003dqhvkmfgked"
+    },
+    {
+      "name": "Launch Chrome 127.0.0.1 (3)",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9223,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://127.0.0.1:52599/p/wego/gendercheck.html?_cmAuth\u003dqhvkmfgked"
+    },
+    {
+      "name": "Launch Chrome 127.0.0.1 (4)",
+      "type": "chrome",
+      "request": "launch",
+      "port": 9296,
+      "webRoot": "${workspaceFolder}",
+      "url": "http://127.0.0.1:52599/p/wego/switch.html?_cmAuth\u003dqhvkmfgked"
     }
   ]
 }
